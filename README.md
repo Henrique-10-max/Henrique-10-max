@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Henrique-10-max
-- 👀 I’m interested in ... Programação em jogos Digitais and Entrar na Deep web
+- 👀 I’m interested in ... Programação em jogos Digitais 
 - 🌱 I’m currently learning ... leanguage C, Python and C++
 - 📫 How to reach me ... meu telegram
 - 😄 Pronouns: ...ELE/DELE
