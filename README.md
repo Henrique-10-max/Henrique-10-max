@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Henrique-10-max
 - 👀 I’m interested in ... Programação em jogos Digitais 
-- 🌱 I’m currently learning ... leanguage C, Python and C++
+- 🌱 I’m currently learning ... leanguage C and Python 
 - 📫 How to reach me ... meu telegram
 - 😄 Pronouns: ...ELE/DELE
 - ⚡ Fun fact: ... VER ANIME E JOGAR DARK SOULS.
